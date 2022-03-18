@@ -1,0 +1,11 @@
+echo "»»»»»»»»»»»»»»»»»»»»»»»»»»"
+echo "‡  ▛▀▖▛▀▘▛▀▖▛▀▖▌ ▌▌  ▌   ‡"
+echo "‡  ▙▄▘▙▄ ▌ ▌▙▄▘▌ ▌▌  ▌   ‡"
+echo "‡  ▌▚ ▌  ▌ ▌▌ ▌▌ ▌▌  ▌   ‡"
+echo "‡  ▘ ▘▀▀▘▀▀ ▀▀ ▝▀ ▀▀▘▀▀▘ ‡"
+echo "±±±±±±±±±±±±±±±±±±±±±±±±±±"
+echo "THE SYNDICATE SEVEN COUNCIL 💙"
+echo ""
+echo ""
+echo "BOT BOOTING UP"
+python3 -m bot

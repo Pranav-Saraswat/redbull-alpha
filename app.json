@@ -1,0 +1,22 @@
+{
+    "name": "notreallypro",
+    "description": "mail acess hits",
+    "repository": "https://github.com/pr13260/redbull",
+    "keywords": [
+        "Heroku",
+        "Stack"
+    ],
+    "env": {
+        "ANNA": {
+            "description": "ANYTHING AS ENV VAR",
+            "value": "DukhDardVedna",
+            "required": false
+        },
+        "CUR_CHE":{
+            "description": "Ur value",
+            "value": "ma",
+            "required": true
+        }
+    },
+    "stack": "container"
+}
